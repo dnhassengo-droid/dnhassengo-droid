@@ -14,6 +14,10 @@ I build the services behind multi-tenant business software (finance and accounti
 - **Frontend**: React and Next.js with TypeScript
 - **Delivery**: Docker, Kubernetes, Helm, Argo CD, Terraform and GitHub Actions pipelines
 
+### Featured project
+
+**[zabbix-ai-anomaly-detection](https://github.com/dnhassengo-droid/zabbix-ai-anomaly-detection)**: my final-year project. Zabbix monitoring of a simulated university campus, with CPU anomaly detection (Isolation Forest) and an AIOps assistant running on a local LLM (Ollama). Docker · Python · scikit-learn · Streamlit.
+
 ### Tech stack
 
 **Languages**
